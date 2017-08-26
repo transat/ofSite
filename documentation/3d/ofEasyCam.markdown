@@ -400,7 +400,7 @@ _inlined_description: _
 
 Get the camera's target node reference.
 
-Returns: a reference the the camera's target node.
+Returns: a reference to the camera's target node.
 
 
 
